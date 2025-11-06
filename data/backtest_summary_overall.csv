@@ -1,0 +1,13 @@
+,Backtest_Overall
+AnnVol_unhedged,13.3088
+AnnVol_hedged,5.5428
+VarianceReduction_%,82.6548
+TE_vol,9.986
+MaxDD_unhedged,-73.064
+MaxDD_hedged,-30.4559
+VaR95_unhedged,-1.3505
+VaR95_hedged,-0.5417
+VaR99_unhedged,-2.2298
+VaR99_hedged,-0.9118
+Sharpe_like_unhedged,-0.2095
+Sharpe_like_hedged,-0.578

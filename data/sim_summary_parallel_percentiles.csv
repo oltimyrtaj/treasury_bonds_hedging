@@ -1,0 +1,4 @@
+,AnnVol_unhedged,AnnVol_hedged,VarReduction_%,VaR95_unhedged,VaR95_hedged,MaxDD_unhedged,MaxDD_hedged
+P25,13.389,0.804,99.577,-1.508,-0.089,-18.993,-0.968
+P50,13.842,0.85,99.619,-1.427,-0.082,-14.766,-0.746
+P75,14.398,0.897,99.666,-1.356,-0.076,-11.49,-0.575
